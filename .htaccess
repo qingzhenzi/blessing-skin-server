@@ -1,0 +1,3 @@
+<Directory "/workspace/public">
+  AllowOverride All
+</Directory>
